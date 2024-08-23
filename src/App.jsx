@@ -18,6 +18,7 @@ function App() {
         download
         className="download-btn"
         onClick={handleDownload}
+        downloand=""
       >
         Скачать файл
       </a>
