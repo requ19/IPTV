@@ -14,13 +14,13 @@ function App() {
   return (
     <div>
       <a
-        href="apk/ktiptv-2.0-armeabi-v7a.apk"
+        href="https://disk.yandex.ru/d/VRiqar8z6po4lg"
         download
         className="download-btn"
         onClick={handleDownload}
         downloand=""
       >
-        Скачать файл
+        Перейти файл
       </a>
       {message && <p>{message}</p>}
     </div>
