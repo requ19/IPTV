@@ -12,3 +12,9 @@
 .download-btn:hover {
     background-color: #0056b3;
 }
+
+.flex {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
