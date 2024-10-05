@@ -44,6 +44,17 @@ function App() {
               Перейти к файлу
             </a>
         </div>
+        <div>
+          <h2>Версия 2.1</h2>
+            <h3>ktiptv-2.1-arm64-v7a</h3>
+            <a
+              href="https://disk.yandex.ru/d/G0Bv2ZqQ7W7weQ"
+              className="download-btn"
+              target='_blank'
+            >
+              Перейти к файлу
+            </a>
+        </div>
     </div>
   );
 }
